@@ -22,14 +22,21 @@ Work experience
   
 Skills
 ======
-* C/C++
-  * Sub-skill Athena++
-* Python
-  * Sub-skill yt
-  * Sub-skill matplotlib
-  * Sub-skill numpy
-* \LaTeX
-* Markdown
+* Programming language
+  * C/C++
+    * Athena++
+  * Python
+    * yt
+    * matplotlib
+    * numpy
+  * LaTeX
+  * Markdown
+* Systems and Software
+  * Linux (beginner)
+  * Git (beginner)
+* Language
+  * Chinese (native)
+  * English (intermediate)
 
 Publications
 ======
@@ -37,8 +44,12 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Presentations and Talks
 ======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+  
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
@@ -51,4 +62,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Peer assistance, University of Science and Technology of China

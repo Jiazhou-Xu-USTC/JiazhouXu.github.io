@@ -44,7 +44,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Presentations and Talks
+Talks and presentations
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}

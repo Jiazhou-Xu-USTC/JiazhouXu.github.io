@@ -12,6 +12,8 @@ My name is Jiazhou Xu/ Xu, Jiazhou (许嘉洲 in Chinese).I am a third-year unde
 
 In my spare time, I enjoy Chinese folk ballads, especially those by [Lei Zhao (赵雷)](https://en.wikipedia.org/wiki/Zhao_Lei_(singer)). I also love traveling and have visited over 10 cities in China, always eager to explore new places.
 
+You can view my CV [here](../assets/academicCV.pdf). If you want to know more about me, please email me directly.
+
 Research interests
 ======
 I am particularly interested in theoretical astrophysics and currently use the [`Athena++`](https://github.com/PrincetonUniversity/athena/) code for hydro simulations to study the high-density cold gas nebula of "Godzilla". I have a strong background in (magneto)hydrodynamical simulations and their applications to the interstellar medium (ISM). As an undergraduate student, I am eager to learn more about our universe.

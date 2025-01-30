@@ -8,7 +8,7 @@ date: 2024-09-26
 location: "Shanghai, China"
 ---
 
-I proposed my preliminary results at Suoqing's group. Below are several selected slides:
+I proposed my preliminary results at Suoqing's group. Below are several selected slides. I also produced an [animation](JiazhouXu.github.io\assets\density_evolution24fps(outflow_Poisson_ver1.0).mp4) to show how the gas density evolve.
 
 ![](PreAtSuoqingBG.png)
 ![](PreAtSuoqingModel.png)

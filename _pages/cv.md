@@ -13,13 +13,22 @@ Education
 ======
 * B.S. in Physics, University of Science and Technology of China, 2026 (expected)
 
-Work experience
+Academic experience
 ======
-* Summer 2024: Research Assistant
+* Jul.- Nov. 2024: Research Assistant
   * Fudan University
-  * Duties included: Tagging issues
+  * Duties included: Conduct a numeric study on the high-density cold gas nabula of “[Godzilla](https://arxiv.org/abs/2404.10755)”
   * Supervisor: Professor [Suoqing Ji](https://astro.fudan.edu.cn/astro_en/7d/74/c45747a687476/page.htm) and Professor [Liang Dai](https://physics.berkeley.edu/people/faculty/liang-dai)
-  
+* Jun. 2023: Visit to the Institute of High Energy Physics, Chinese Academy of Science (CAS)
+  * CAS and University of Science and Technology of China
+  * Duties included: Visit IHEP, gain basic knowledge of high energy physics and large scientific equipments
+* Sept. 2023- Feb. 2024: Exploratory physics experiment
+  * Physics Experiment Teaching Center, University of Science and Technology of China
+  * Duties included: Study the application of acceleration sensors
+* Jan. 2025: TDLI Winter School in Astrophysics
+  * Tsung-Dao Lee Institute, Shanghai Jiao Tong University
+  * Dunties included: Get involved in the activities, including 1.5-day talks, and 1-day interactions with individual falculties
+
 Skills
 ======
 * Programming language
@@ -62,4 +71,4 @@ Teaching
   
 Service and leadership
 ======
-* Peer assistance, University of Science and Technology of China
+* Nov.-Dec. 2024: Peer assistance in mathematical analysis, University of Science and Technology of China

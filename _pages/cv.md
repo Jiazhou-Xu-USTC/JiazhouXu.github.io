@@ -47,6 +47,7 @@ Skills
   * LaTeX
   * Markdown
 * Systems and Software
+  * MPI
   * Linux (beginner)
   * Git (beginner)
 * Language

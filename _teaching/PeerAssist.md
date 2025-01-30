@@ -4,7 +4,7 @@ collection: mentoring
 type: "Undergraduate Course"
 permalink: /teaching/PeerAssist
 venue: "University of Science and Technology of China, School of Physical Sciences"
-date: 2024-11
+date: 2024-11-14
 location: "Hefei, China"
 ---
 

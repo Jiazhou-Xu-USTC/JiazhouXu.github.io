@@ -59,7 +59,7 @@ Talks and presentations
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+Teaching and mentoring
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
@@ -67,4 +67,4 @@ Teaching
   
 Service and leadership
 ======
-* Nov.-Dec. 2024: Peer assistance in mathematical analysis, University of Science and Technology of China
+* Sept. 2023- Jun. 2024: Head of the Students' Union Academic Department, School of Physical Sciences, University of Science and Technology of China

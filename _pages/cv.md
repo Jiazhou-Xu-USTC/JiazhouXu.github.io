@@ -29,6 +29,12 @@ Academic experience
   * Tsung-Dao Lee Institute, Shanghai Jiao Tong University
   * Dunties included: Get involved in the activities, including 1.5-day talks, and 1-day interactions with individual falculties
 
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Skills
 ======
 * Programming language
@@ -47,11 +53,13 @@ Skills
   * Chinese (native)
   * English (intermediate)
 
-Publications
+Awards
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Outstanding Student Scholarship, Grade 1, University of Science and Technology of China
+  * 3% of the whole grade
+* First prize of Mathematics competition of Chinese College Students (CMC), Anhui Mathematical Society
+  * 6th place in Anhui province
+* National Encouragement Scholarship, Univerisity of Science and Technology of China
   
 Talks and presentations
 ======

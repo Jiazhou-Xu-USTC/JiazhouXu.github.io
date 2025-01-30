@@ -10,4 +10,7 @@ location: "Shanghai, China"
 
 I proposed my preliminary results at Suoqing's group. Below are several selected slides:
 
-![](JiazhouXu.github.io\assets\PreAtSuoqingBG.png "")
+![](PreAtSuoqingBG.png)
+![](PreAtSuoqingModel.png)
+![](PreAtSuoqingSetUp1.png)
+![](PreAtSuoqingSetUp2.png)

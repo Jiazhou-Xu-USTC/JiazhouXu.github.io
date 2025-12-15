@@ -20,4 +20,4 @@ You can view my CV [here](assets/academicCV.pdf) or check the [CV page](https://
 
 Research interests
 ======
-I am interested in theoretical astropysics and AI for Science (AI4S). I chose AI4S because of some reasons regarding reality. I'm quite new to this research area. Now I'm supervised by Prof. Jiancan Wu and co-supervised by Dr. Kai Cao. They helped me a lot to enter this area. Hopefully I can do some discovery.
+I am interested in theoretical astropysics and AI for Science (AI4S). I chose AI4S because of some reasons regarding reality. I'm quite new to this research area. Now I'm supervised by [Prof. Jiancan Wu](https://wujcan.github.io/) and co-supervised by [Dr. Kai Cao](https://www.caokai.site/). They helped me a lot to enter this area. Hopefully I can do some discovery.

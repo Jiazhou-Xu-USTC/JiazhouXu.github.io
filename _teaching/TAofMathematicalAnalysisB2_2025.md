@@ -4,7 +4,7 @@ collection: Teaching Assistant
 type: "Undergraduate Course"
 permalink: /teaching/TAofMathematicalAnalysisB2_2025
 venue: "University of Science and Technology of China, School of Mathematical Sciences"
-date: 2025-02-
+date: 2025-02-23
 location: "Hefei, China"
 ---
 

@@ -12,7 +12,7 @@ title                    : "Jiazhou Xu's homepage"
 title_separator          : "-"
 name                     : &name "Jiazhou Xu"
 description              : &description "personal description"
-url                      : https://jiazhou-xu-ustc.github.io/JiazhouXu.github.io// # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://jiazhouxu.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JiazhouXu.github.io"
 
@@ -27,7 +27,7 @@ author:
   bio              : # "Short biography for the left-hand sidebar"
   location         : "96 Jinzhai Rd. Hefei, Anhui province, China"
   employer         : "University of Science and Technology of China"
-  uri              : https://jiazhou-xu-ustc.github.io/JiazhouXu.github.io// # URL
+  uri              : https://jiazhouxu.github.io/ # URL
   email            : "stardustxu@mail.ustc.edu.cn" 
 
   # Academic websites

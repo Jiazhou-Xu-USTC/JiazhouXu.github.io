@@ -16,7 +16,7 @@ I started my first research in astrophysics at [Center for Astronomy and Astroph
 
 In my spare time, I enjoy Chinese folk ballads, especially those by [Lei Zhao (赵雷)](https://en.wikipedia.org/wiki/Zhao_Lei_(singer)). I also love traveling and have visited over 10 cities in China. In 2025, I went to Germany and France, visited Heidelberg, Munich, Tubingen and Paris. I'm always eager to explore new attractions.
 
-You can view my CV [here](assets/academicCV.pdf) or check the [CV page](https://jiazhou-xu-ustc.github.io/JiazhouXu.github.io///cv/). If you want to know more about me, please email me directly.
+You can view my CV [here](assets/academicCV.pdf) or check the [CV page](https://jiazhouxu.github.io//cv/). If you want to know more about me, please email me directly.
 
 Research interests
 ======

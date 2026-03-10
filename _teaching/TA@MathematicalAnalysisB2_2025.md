@@ -1,5 +1,5 @@
 ---
-title: "Mathematical Analysis B2"
+title: "Mathematical Analysis B2 (2025)"
 collection: Teaching Assistant
 type: "Undergraduate Course"
 permalink: /teaching/TA@MathematicalAnalysisB2_2025

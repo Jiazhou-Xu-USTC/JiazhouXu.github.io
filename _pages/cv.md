@@ -15,10 +15,12 @@ Education
 
 Academic experience
 ======
+* Oct.- Dec. 2025: Research Assistant
+  * ARI, Heidelberg University
 * Jul.- Nov. 2024: Research Assistant
   * Fudan University
   * Duties included: Conduct a numeric study on the high-density cold gas nabula of “[Godzilla](https://arxiv.org/abs/2404.10755)”
-  * Supervisor: Professor [Suoqing Ji](https://astro.fudan.edu.cn/astro_en/7d/74/c45747a687476/page.htm) and Professor [Liang Dai](https://physics.berkeley.edu/people/faculty/liang-dai)
+  * Supervisors: Professor [Suoqing Ji](https://astro.fudan.edu.cn/astro_en/7d/74/c45747a687476/page.htm) and Professor [Liang Dai](https://physics.berkeley.edu/people/faculty/liang-dai)
 * Jun. 2023: Visit to the Institute of High Energy Physics, Chinese Academy of Science (CAS)
   * CAS and University of Science and Technology of China
   * Duties included: Visit IHEP, gain basic knowledge of high energy physics and large scientific equipments
@@ -48,8 +50,8 @@ Skills
   * Markdown
 * Systems and Software
   * MPI
-  * Linux (beginner)
-  * Git (beginner)
+  * Linux
+  * Git
 * Language
   * Chinese (native)
   * English (intermediate)

@@ -8,4 +8,4 @@ date: Spring 2025
 location: "Hefei, China"
 ---
 
-I am one of the TAs for the fundamental math course: Mathematical Analysis B2 (B stands for non-math majors, 2 stands for the 2nd term), on Cheng, Yi's class. Mathematical B2 mainly contains calculus for multi-variables, series (numeric, functions, Fourier).
+I am one of the TAs for the fundamental math course: Mathematical Analysis B2 (B stands for non-math majors, 2 stands for the 2nd term), on [Cheng, Yi](https://faculty.ustc.edu.cn/chengyi/en/index.htm)'s class. Mathematical B2 mainly contains calculus for multi-variables, series (numeric, functions, Fourier).

@@ -15,10 +15,15 @@ Education
 
 Academic experience
 ======
+* May.- Jun. 2025: Reproducing Logic-RL
+  * Duties included: Reproduce the research work [Logic-RL](https://github.com/Unakar/Logic-RL). Logic-RL is a small scale reproduction of DeepSeek-R1, the reasoning model trained via rule-based Reinforcement Learning (RL). They train the Qwen small scale model on the K&K problems (a kind of logic problems to determine who is the liar), and obtained generalized reasoning ability
+  * Supervisors: None
 * Oct.- Dec. 2025: Research Assistant
-  * ARI, Heidelberg University
+  * [ARI, Heidelberg University](https://www.ari.uni-heidelberg.de/)
+  * Duties included: linear analysis of viscous Kelvin-Helmholtz Instability (KHI)
+  * Supervisors: Professor [Max Gronke](https://max.lyman-alpha.com/) and Doctor [Ritali Ghosh](https://www.ritalighosh.com/index.html)
 * Jul.- Nov. 2024: Research Assistant
-  * Fudan University
+  * [CfAA, Fudan University](https://astro.fudan.edu.cn/astro_en/)
   * Duties included: Conduct a numeric study on the high-density cold gas nabula of “[Godzilla](https://arxiv.org/abs/2404.10755)”
   * Supervisors: Professor [Suoqing Ji](https://astro.fudan.edu.cn/astro_en/7d/74/c45747a687476/page.htm) and Professor [Liang Dai](https://physics.berkeley.edu/people/faculty/liang-dai)
 * Jun. 2023: Visit to the Institute of High Energy Physics, Chinese Academy of Science (CAS)

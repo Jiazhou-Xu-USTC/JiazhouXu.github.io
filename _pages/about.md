@@ -8,7 +8,7 @@ redirect_from:
 ---
 About me
 ======
-My name is Jiazhou Xu/ Xu, Jiazhou (许嘉洲 in Chinese). I am a fourth-year undergraduate student majoring in theoretical physics at [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). 
+My name is Jiazhou Xu (许嘉洲 in Chinese). I am a fourth-year undergraduate student majoring in theoretical physics at [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). 
 
 I was born and raised in a small village named Beiwangzhuang (small enough that you can't even find it on Wikipedia) in [Zhengding county](https://en.wikipedia.org/wiki/Zhengding_County), Hebei province. Where I lived a wonderful childhood. 
 

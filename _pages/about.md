@@ -10,7 +10,7 @@ About me
 ======
 My name is Jiazhou Xu (许嘉洲 in Chinese). I am a fourth-year undergraduate student majoring in theoretical physics at [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). 
 
-I was born and raised in a small village named Beiwangzhuang (small enough that you can't even find it on Wikipedia) in [Zhengding county](https://en.wikipedia.org/wiki/Zhengding_County), Hebei province. Where I lived a wonderful childhood. 
+I was born and raised in a small village named Beiwangzhuang (small enough that you can't even find it on Wikipedia) in [Zhengding county](https://en.wikipedia.org/wiki/Zhengding_County), Hebei province. Where I experienced a wonderful childhood. 
 
 I started my first research in astrophysics at [Center for Astronomy and Astrophysics, Fudan University](https://astro.fudan.edu.cn/astro_en/), where I was supervised by [Prof. Suoqing Ji](https://astro.fudan.edu.cn/astro_en/7d/74/c45747a687476/page.htm), a smart, humble and really nice scholar. I was studying (mainly the survival of) a cold nabulae inside a young Super Star Cluster (SSC). I've learned a lot at Fudan thanks to Suoqing. However, I didn't finish that project because I could not manage everything after I came back to USTC. It's a shame. In October 2025, I was lucky enough to visit [ARI(Astronomisches Rechen-Institut), Heidelberg University](https://www.ari.uni-heidelberg.de/) thanks to [Prof. Max Gronke](https://max.lyman-alpha.com/). I studied (and am still studying) linear viscous Kelvin-Helmholtz Instability under the wonderful guidance of [Prof. Max Gronke](https://max.lyman-alpha.com/) and [Dr. Ritali Ghosh](https://www.ritalighosh.com/index.html).
 
